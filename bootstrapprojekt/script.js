@@ -10,7 +10,7 @@ $.each(images, function(index, name){
     }
 })
 $("#btnAuthor").click(function(){
-    $("#mainText").html("Autor: Tomasz Stępień <br> &nbsp;");
+    $("#mainText").html("Autor: Tomasz Stępień <br> Email:tomaszstepien04@gmail.com;");
 
 })
 $("#btnMain").click(function(){
